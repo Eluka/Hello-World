@@ -8,3 +8,4 @@ Fourth Line
 Comment from master
 On newBranch
 Branch 2 changes
+Final Change on newBranch1
